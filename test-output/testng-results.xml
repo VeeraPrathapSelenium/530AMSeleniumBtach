@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22522" started-at="2019-09-28T01:04:30Z" finished-at="2019-09-28T01:04:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22522" started-at="2019-09-28T01:04:30Z" finished-at="2019-09-28T01:04:53Z">
+      <class name="com.testcases.Tc_01">
+        <test-method status="PASS" signature="intializeSetUp()[pri:0, instance:com.testcases.Tc_01@6e20b53a]" name="intializeSetUp" is-config="true" duration-ms="433" started-at="2019-09-28T01:04:30Z" finished-at="2019-09-28T01:04:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeSetUp -->
+        <test-method status="PASS" signature="beforeEachMethod(java.lang.reflect.Method)[pri:0, instance:com.testcases.Tc_01@6e20b53a]" name="beforeEachMethod" is-config="true" duration-ms="8" started-at="2019-09-28T01:04:30Z" finished-at="2019-09-28T01:04:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.testcases.Tc_01.Validate_RegisterModule()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachMethod -->
+        <test-method status="PASS" signature="Validate_RegisterModule()[pri:0, instance:com.testcases.Tc_01@6e20b53a]" name="Validate_RegisterModule" duration-ms="22469" started-at="2019-09-28T01:04:30Z" finished-at="2019-09-28T01:04:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_RegisterModule -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testcases.Tc_01@6e20b53a]" name="afterMethod" is-config="true" duration-ms="3" started-at="2019-09-28T01:04:53Z" finished-at="2019-09-28T01:04:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.testcases.Tc_01@6e20b53a]" name="afterSuite" is-config="true" duration-ms="1185" started-at="2019-09-28T01:04:53Z" finished-at="2019-09-28T01:04:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.testcases.Tc_01 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
